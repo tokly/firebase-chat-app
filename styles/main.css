@@ -65,7 +65,7 @@ main, #messages-card {
 .message-container {
   display: block;
   margin-top: 10px;
-  border-top: 1px solid #ffffff;
+  border-top: 1px solid #000000;
   padding-top: 10px;
   opacity: 0;
   transition: opacity 1s ease-in-out;
@@ -122,7 +122,7 @@ main, #messages-card {
   min-height: 0;
 }
 .mdl-card {
-  background: linear-gradient(white, #ffffff);
+  background: linear-gradient(white, #000000);
   justify-content: space-between;
 }
 #user-container {
